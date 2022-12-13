@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 1 gol de la araña que pica
-=======
 la araña que te pica hizo el gol del partido
->>>>>>> 68ffb29 (araña q te pica)
+
